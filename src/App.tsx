@@ -6,7 +6,7 @@ import { menuData } from './data/menuData';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/lona/"> <!-- اضافه کنید -->
       <div className="layout">
         <Navigation />
         <main className="main">
@@ -25,5 +25,3 @@ function App() {
     </Router>
   );
 }
-
-export default App;
