@@ -6,7 +6,6 @@ import { menuData } from './data/menuData';
 
 function App() {
   return (
-    <Router basename="/lona/">
       <div className="layout">
         <Navigation />
         <main className="main">
