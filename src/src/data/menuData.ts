@@ -35,7 +35,18 @@ export const menuData: MenuData = {
   pasta: {
     title: "پاستا",
     items: [
-      
+      {
+        name: "مرغ قارچ",
+        price: "223,000",
+        ingredients: ["مرغ", "قارچ", "کاهو", "گوجه", "خیار شور", "پنیر پیتزا"],
+        image: "https://images.unsplash.com/photo-1481070414801-51fd732d7184?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        name: "رست بیف",
+        price: "336,000",
+        ingredients: ["گوشت ریش ریش شده", "پنیر پیتزا", "قارچ", "خیار شور", "گوجه", "کاهو"],
+        image: "https://images.unsplash.com/photo-1511996635226-6dd0c50c8d24?auto=format&fit=crop&q=80&w=800"
+      }
     ]
   },
   fried: {
