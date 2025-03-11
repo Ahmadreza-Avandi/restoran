@@ -32,6 +32,12 @@ export const menuData: MenuData = {
       }
     ]
   },
+  pasta: {
+    title: "پاستا",
+    items: [
+      
+    ]
+  },
   fried: {
     title: "سوخاری",
     items: [
