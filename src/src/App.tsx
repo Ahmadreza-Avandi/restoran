@@ -7,21 +7,23 @@ import { menuData } from './data/menuData';
 function App() {
   return (
     <Router>
-      <div className="layout">
-        <Navigation />
-        <main className="main">
-          <Routes>
-            <Route path="/" element={<Navigate to="/sandwich" replace />} />
-            {Object.entries(menuData).map(([category]) => (
-              <Route
-                key={category}
-                path={`/${category}`}
-                element={<MenuSection category={category} />}
-              />
-            ))}
-          </Routes>
-        </main>
-      </div>
+      <>
+        <div className="layout">
+          <Navigation />
+          <main className="main">
+            <Routes>
+              <Route path="/" element={<Navigate to="/sandwich" replace />} />
+              {Object.entries(menuData).map(([category]) => (
+                <Route
+                  key={category}
+                  path={`/${category}`}
+                  element={<MenuSection category={category} />}
+                />
+              ))}
+            </Routes>
+          </main>
+        </div>
+      </>
     </Router>
   );
 }
