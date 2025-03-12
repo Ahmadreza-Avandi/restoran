@@ -219,6 +219,33 @@ export const menuData: MenuData = {
     title: "بار سرد",
     items: [
       {
+        name: "شیک اورئو",
+        price: "",
+        ingredients: [""],
+        image: ""
+      } ,
+      {
+        name: "شیک شکلاتی",
+        price: "",
+        ingredients: [""],
+        image: ""
+      } ,{
+        name: "شیک نوتلا",
+        price: "",
+        ingredients: [""],
+        image: ""
+      } ,{
+        name: "شیک امازونیکا",
+        price: "",
+        ingredients: [""],
+        image: ""
+      } ,{
+        name: "شیک پروتئین",
+        price: "",
+        ingredients: [""],
+        image: ""
+      } ,
+      {
         name: "ماکتیل",
         price: "",
         ingredients: [],
@@ -269,37 +296,7 @@ export const menuData: MenuData = {
     ]
   },
 
-  shake: {
-    title: "شیک",
-    items: [
-      {
-        name: "شیک اورئو",
-        price: "",
-        ingredients: [""],
-        image: ""
-      } ,
-      {
-        name: "شیک شکلاتی",
-        price: "",
-        ingredients: [""],
-        image: ""
-      } ,{
-        name: "شیک نوتلا",
-        price: "",
-        ingredients: [""],
-        image: ""
-      } ,{
-        name: "شیک امازونیکا",
-        price: "",
-        ingredients: [""],
-        image: ""
-      } ,{
-        name: "شیک پروتئین",
-        price: "",
-        ingredients: [""],
-        image: ""
-      } ,
-    ]},
+  
   salad: {
     title: "سالاد",
     items: [
