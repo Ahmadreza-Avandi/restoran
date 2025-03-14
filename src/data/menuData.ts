@@ -220,29 +220,29 @@ export const menuData: MenuData = {
     items: [
       {
         name: "شیک اورئو",
-        price: "",
+        price: "185,000",
         ingredients: [""],
         image: ""
       } ,
       {
         name: "شیک شکلاتی",
         price: "",
-        ingredients: [""],
+        ingredients: ["149,000"],
         image: ""
       } ,{
         name: "شیک نوتلا",
-        price: "",
+        price: "189,000",
         ingredients: [""],
         image: ""
       } ,{
         name: "شیک امازونیکا",
-        price: "",
+        price: "194,000",
         ingredients: [""],
         image: ""
       } ,{
         name: "شیک پروتئین",
         price: "",
-        ingredients: [""],
+        ingredients: ["179,000"],
         image: ""
       } ,
       {
