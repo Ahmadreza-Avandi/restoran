@@ -144,7 +144,7 @@ export const menuData: MenuData = {
     items: [
       {
         name: "کینگ برگر",
-        price: "360,000",
+        price: "380,000",
         ingredients: ["دو عدد برگر", "دو عدد پنیر چدار", "کاهو", "خیار شور", "گوجه", "سس مخصوص", "سیب تنوری"],
         image: ""
       },
@@ -270,7 +270,7 @@ export const menuData: MenuData = {
         image: ""
       },
       {
-        name: "الینا",
+        name: "آلینا",
         price: "196,000",
         ingredients: [],
         image: ""
@@ -287,12 +287,7 @@ export const menuData: MenuData = {
         ingredients: [],
         image: ""
       },
-      {
-        name: "آلینا",
-        price: "",
-        ingredients: [],
-        image: ""
-      },
+      
     ]
   },
 
