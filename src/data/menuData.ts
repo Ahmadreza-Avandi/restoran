@@ -33,7 +33,7 @@ export const menuData: MenuData = {
       {
         name: "عربیکا",
         price: "372,000",
-        ingredients: ["گوشت", "سس ناپولیتن", "قارچ", "زیتون سیاه", "فلفل دلمه", "پنیر"],
+        ingredients: ["گوشت", "سس ناپولیتن", "قارچ", "زیتون سیاه", "فلفل دلمه", " پنیر آلوپینو"],
         image: ""
       }
     ]
@@ -44,7 +44,7 @@ export const menuData: MenuData = {
     items: [
       {
         name: "چیکن استیک",
-        price: "760,000",
+        price: "360,000",
         ingredients: ["سینه مرغ گریل شده", "قارچ", "کلم بروکلی", "گوجه گیلاسی", "سس آلفردو", "سیب تنوری", "ذرت"],
         image: ""
       },
@@ -55,9 +55,9 @@ export const menuData: MenuData = {
         image: ""
       },
       {
-        name: "رجب آی",
+        name: "ریپ آی",
         price: "992,000",
-        ingredients: ["گوشت رجب آی", "سس قارچ", "قارچ", "ذرت", "کلم بروکلی", "سیب تنوری", "گوجه گیلاسی"],
+        ingredients: ["گوشت ریپ آی", "سس قارچ", "قارچ", "ذرت", "کلم بروکلی", "سیب تنوری", "گوجه گیلاسی"],
         image: ""
       }
     ]
@@ -122,7 +122,7 @@ export const menuData: MenuData = {
       {
         name: "مارگاریتا",
         price: "289,000",
-        ingredients: ["گوجه", "پنیر پیتزا", "ریحون", "سس مارنیا"],
+        ingredients: ["گوجه", "پنیر پیتزا", "ریحون", "سس "],
         image: ""
       },
       {
@@ -144,13 +144,13 @@ export const menuData: MenuData = {
     items: [
       {
         name: "کینگ برگر",
-        price: "332,000",
+        price: "360,000",
         ingredients: ["دو عدد برگر", "دو عدد پنیر چدار", "کاهو", "خیار شور", "گوجه", "سس مخصوص", "سیب تنوری"],
         image: ""
       },
       {
         name: "برگر مخصوص",
-        price: "338,000",
+        price: "390,000",
         ingredients: ["دو عدد برگر", "فیله مرغ", "بیکن", "دو عدد پنیر چدار", "کاهو", "خیار شور", "گوجه", "سس مخصوص", "سیب تنوری"],
         image: ""
       },
@@ -202,7 +202,7 @@ export const menuData: MenuData = {
         image: ""
       },
       {
-        name: "شر بمب داینامیت",
+        name: "شیرمنپ داینامیت",
         price: "198,000",
         ingredients: ["مرغ سوخاری", "سس چیلی تای", "هویج خشک شده"],
         image: ""
@@ -253,37 +253,37 @@ export const menuData: MenuData = {
       },
       {
         name: "رد لونا",
-        price: "",
+        price: "193,000",
         ingredients: [],
         image: ""
       },
       {
         name: "لیموناد",
-        price: "",
+        price: "172,000",
         ingredients: [],
         image: ""
       },
       {
         name: "موهیتو",
-        price: "",
+        price: "183,000",
         ingredients: [],
         image: ""
       },
       {
         name: "الینا",
-        price: "",
+        price: "196,000",
         ingredients: [],
         image: ""
       },
       {
         name: "رد فلک",
-        price: "",
+        price: "191,000",
         ingredients: [],
         image: ""
       },
       {
         name: "گلکسی",
-        price: "",
+        price: "189,000",
         ingredients: [],
         image: ""
       },
@@ -336,14 +336,14 @@ export const menuData: MenuData = {
         image: ""
       },
       {
-        name: "سس تخم مرغ",
+        name: "سیس تخم مرغ",
         price: "120,000",
-        ingredients: ["سس تخم مرغ", "گوجه فرنگی"],
+        ingredients: ["سیس تخم مرغ", "گوجه فرنگی"],
         image: ""
       },
       {
         name: "املت بیکن تخم مرغ",
-        price: "178,000",
+        price: "187,000",
         ingredients: ["زرده تخم مرغ", "بیکن", "قارچ", "زیتون سبز", "گوجه فرنگی"],
         image: ""
       },
