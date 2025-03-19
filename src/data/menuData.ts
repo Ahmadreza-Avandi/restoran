@@ -202,7 +202,7 @@ export const menuData: MenuData = {
         image: ""
       },
       {
-        name: "شیرمنپ داینامیت",
+        name: "شریمپ داینامیت",
         price: "198,000",
         ingredients: ["مرغ سوخاری", "سس چیلی تای", "هویج خشک شده"],
         image: ""
@@ -331,9 +331,9 @@ export const menuData: MenuData = {
         image: ""
       },
       {
-        name: "سیس تخم مرغ",
+        name: "سسیس تخم مرغ",
         price: "120,000",
-        ingredients: ["سیس تخم مرغ", "گوجه فرنگی"],
+        ingredients: ["سسیس تخم مرغ", "گوجه فرنگی"],
         image: ""
       },
       {
