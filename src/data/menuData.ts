@@ -204,7 +204,7 @@ export const menuData: MenuData = {
       {
         name: "شریمپ داینامیت",
         price: "198,000",
-        ingredients: ["مرغ سوخاری", "سس چیلی تای", "هویج خشک شده"],
+        ingredients: ["میگو سوخاری", "سس چیلی تای", "هویج خشک شده"],
         image: ""
       },
       {
