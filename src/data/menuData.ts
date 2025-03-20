@@ -246,12 +246,6 @@ export const menuData: MenuData = {
         image: ""
       } ,
       {
-        name: "ماکتیل",
-        price: "",
-        ingredients: [],
-        image: ""
-      },
-      {
         name: "رد لونا",
         price: "193,000",
         ingredients: [],
