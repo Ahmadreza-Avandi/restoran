@@ -226,8 +226,8 @@ export const menuData: MenuData = {
       } ,
       {
         name: "شیک شکلاتی",
-        price: "",
-        ingredients: ["149,000"],
+        price: "149,000",
+        ingredients: [""],
         image: ""
       } ,{
         name: "شیک نوتلا",
@@ -241,8 +241,8 @@ export const menuData: MenuData = {
         image: ""
       } ,{
         name: "شیک پروتئین",
-        price: "",
-        ingredients: ["179,000"],
+        price: "179,000",
+        ingredients: [""],
         image: ""
       } ,
       {
