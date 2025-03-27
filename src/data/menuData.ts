@@ -110,7 +110,7 @@ export const menuData: MenuData = {
       {
         name: "چیکن",
         price: "391,000",
-        ingredients: ["سس قارچ", "مرغ", "پنیر پیتزا", "فلفل دلمه", "تخم آفتاب گردان", "زیتون"],
+        ingredients: ["سس قارچ", "مرغ", "پنیر پیتزا", "فلفل دلمه", "تخمه آفتاب گردان", "زیتون"],
         image: ""
       },
       {
@@ -190,7 +190,7 @@ export const menuData: MenuData = {
         image: ""
       },
       {
-        name: "نون سیر",
+        name: "نان سیر",
         price: "166,000",
         ingredients: ["خمیر پیتزا", "پنیر پیتزا", "سس سیر"],
         image: ""
@@ -208,7 +208,7 @@ export const menuData: MenuData = {
         image: ""
       },
       {
-        name: "باربیکیو وینگرز",
+        name: "باربیکیو وینز",
         price: "183,000",
         ingredients: ["باله مرغ", "سس باربیکیو", "هویج خشک شده"],
         image: ""
@@ -290,7 +290,7 @@ export const menuData: MenuData = {
     title: "سالاد",
     items: [
       {
-        name: "سزار",
+        name: "سالاد سزار",
         price: "230,000",
         ingredients: ["کاهو", "سینه مرغ", "سس سزار", "گوجه گیلاسی"],
         image: ""
@@ -325,9 +325,9 @@ export const menuData: MenuData = {
         image: ""
       },
       {
-        name: "سسیس تخم مرغ",
+        name: "سوسیس تخم مرغ",
         price: "120,000",
-        ingredients: ["سسیس تخم مرغ", "گوجه فرنگی"],
+        ingredients: ["سوسیس تخم مرغ", "گوجه فرنگی"],
         image: ""
       },
       {
@@ -343,5 +343,104 @@ export const menuData: MenuData = {
         image: ""
       }
     ]
-  }
+  },
+  hot_bar: {
+    title: "بار گرم",
+    items: [
+      {
+        name: "چای ساده",
+        price: "",
+        ingredients: [""],
+        image: ""
+      },
+      {
+        name: "چای سفید",
+        price: "",
+        ingredients: [""],
+        image: ""
+      },
+      {
+        name: "چای ترش",
+        price: "",
+        ingredients: [""],
+        image: ""
+      },
+      {
+        name: "چای سبز",
+        price: "",
+        ingredients: [""],
+        image: ""
+      }, {
+        name: "چای کرک",
+        price: "",
+        ingredients: [""],
+        image: ""
+      }, {
+        name: "دمنوش لمون گرس",
+        price: "",
+        ingredients: [""],
+        image: ""
+      }
+    ]
+  },
+  cafee: {
+    title: "بر پایه قهوه",
+    items: [
+      {
+        name: "اسپرسو",
+        price: "",
+        ingredients: [""],
+        image: ""
+      },
+      {
+        name: "آمریکانو",
+        price: "",
+        ingredients: [""],
+        image: ""
+      },
+      {
+        name: "لاته",
+        price: "",
+        ingredients: [""],
+        image: ""
+      },
+      {
+        name: "کارامل ماکیاتو",
+        price: "",
+        ingredients: [""],
+        image: ""
+      },
+      {
+        name: "موکا",
+        price: "",
+        ingredients: [""],
+        image: ""
+      },
+      {
+        name: "کاپوچینو",
+        price: "",
+        ingredients: [""],
+        image: ""
+      },
+      {
+        name: "هات چاکلت",
+        price: "",
+        ingredients: [""],
+        image: ""
+      },
+      {
+        name: "قهوه عربی",
+        price: "",
+        ingredients: [""],
+        image: ""
+      },
+      {
+        name: "قهوه دمی",
+        price: "",
+        ingredients: [""],
+        image: ""
+      },
+      
+    ]
+  },
 };
