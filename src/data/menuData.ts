@@ -179,7 +179,7 @@ export const menuData: MenuData = {
     items: [
       {
         name: "چیلی فرایز",
-        price: "72,000",
+        price: "187,000",
         ingredients: ["سیب زمینی", "ادویه سیب زمینی"],
         image: ""
       },
