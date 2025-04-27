@@ -26,7 +26,7 @@ export const menuData: MenuData = {
       },
       {
         name: "بیف آلفردو",
-        price: "343,000",
+        price: "360,000",
         ingredients: ["پنیر", "گوشت", "سس آلفردو", "قارچ"],
         image: ""
       },
