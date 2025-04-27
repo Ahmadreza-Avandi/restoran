@@ -19,8 +19,8 @@ export const menuData: MenuData = {
     title: "پاستا",
     items: [
       {
-        name: "چیکن آلفرد",
-        price: "312,000",
+        name: "چیکن آلفردو",
+        price: "340,000",
         ingredients: ["پنیر", "مرغ", "سس آلفردو", "قارچ"],
         image: ""
       },
